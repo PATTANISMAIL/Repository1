@@ -1,0 +1,1 @@
+puts "welcome to ruby on rails"
